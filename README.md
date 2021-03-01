@@ -1,4 +1,4 @@
-# Doorbot
+# Telegram Doorbot
 
 Telegram bot to remotely open your house door with simple user management, access restrictions and access log.
 
