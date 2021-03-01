@@ -8,9 +8,9 @@ services:
     volumes:
       - ./doorbot:/doorbot
     environment:
-      TG_SECRET: "1565942632:AAE-S5ObGVeoPzVwZOgoAYt0cUw0axOHXXw"
+      TG_SECRET: "SECRET-GOES-HERE"
       PIN: 21
-      ADMINS: "71231461;36259922"
+      ADMINS: "USERID1;USERID2;..."
 
   gpiod:
     image: corbosman/pigpiod
